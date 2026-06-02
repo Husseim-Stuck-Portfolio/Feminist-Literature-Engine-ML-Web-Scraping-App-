@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+Python
+pycache/ *.pycod *.pyo *.pyd .Python venv/ env/ .venv/ pip-wheel-metadata/ *.egg-info/
+Jupyter
+.ipynb_checkpoints/
+IDEs
+.vscode/ .idea/
+OS
+.DS_Store Thumbs.db
+Logs / build
+*.log build/ dist/ .pytest_cache/
+Secrets
+.env credentials.json secret_key*
+Node (if used)
+node_modules/ npm-debug.log
+Data & models
+data/ outputs/ models/ *.sqlite3
