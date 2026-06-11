@@ -1,0 +1,64 @@
+word,count,field
+science,17598,science
+social science,16810,other
+social,16810,social sciences
+humanity,4349,other
+art,4349,other
+art humanity,4349,other
+psychology,1204,social sciences
+medicine,550,medicine
+profession,422,other
+health,422,health
+health profession,422,other
+finance,342,management
+econometric,342,other
+economic econometric,342,other
+economic,342,other
+econometric finance,342,other
+management accounting,285,management
+accounting,285,management
+management,285,management
+business management,285,other
+business,285,business
+computer science,265,computer science
+computer,265,computer science
+environmental,264,environmental
+environmental science,264,other
+agricultural,174,agricultural
+agricultural biological,174,agricultural
+biological,174,biological
+biological science,174,other
+decision science,73,other
+decision,73,science
+neuroscience,66,neuroscience
+engineering,57,science
+molecular biology,55,molecular
+molecular,55,molecular
+genetic molecular,55,other
+biochemistry,55,biochemistry
+genetic,55,other
+biochemistry genetic,55,other
+biology,55,other
+nursing,28,other
+physics astronomy,21,other
+physics,21,science
+astronomy,21,planetary
+earth,10,other
+planetary,10,planetary
+planetary science,10,planetary
+earth planetary,10,other
+mathematics,8,science
+pharmaceutic,6,other
+pharmacology toxicology,6,other
+toxicology,6,science
+toxicology pharmaceutic,6,other
+pharmacology,6,health
+energy,3,energy
+veterinary,2,other
+chemistry,2,science
+material science,2,other
+material,2,other
+immunology,1,other
+dentistry,1,other
+microbiology,1,microbiology
+immunology microbiology,1,other

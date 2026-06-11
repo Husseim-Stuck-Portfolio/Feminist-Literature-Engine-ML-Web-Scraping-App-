@@ -1,0 +1,413 @@
+word,count,subfield
+science,8742,science
+political,8327,social sciences
+political science,8327,social sciences
+sociology,6432,social sciences
+sociology political,6432,social sciences
+study,5923,other
+gender study,4730,other
+gender,4730,gender studies
+international,1908,international relations
+science international,1895,international relations
+international relation,1895,other
+relation,1895,other
+psychology,1204,social sciences
+theory,1201,theory
+literary theory,1194,literature
+literature literary,1194,literature
+literature,1194,literature
+literary,1194,literature
+art,1080,other
+philosophy,971,philosophy
+health,932,health
+history,896,history
+cultural,805,cultural
+cultural study,805,other
+education,641,education
+general,590,general
+perform art,537,other
+perform,537,other
+visual art,537,other
+art perform,537,other
+visual,537,arts
+public,508,public
+social,458,social sciences
+clinical psychology,457,social sciences
+clinical,457,health
+social psychology,409,social sciences
+management,373,management
+law,354,law
+administration,336,administration
+public administration,336,administration
+profession,312,other
+general health,312,general
+health profession,312,other
+anthropology,309,social sciences
+communication,309,communication
+economic,280,other
+econometric,280,other
+economic econometric,280,other
+research,259,research
+religious,241,other
+religious study,241,other
+safety research,230,research
+safety,230,research
+development,221,development
+cognitive,208,social sciences
+planning,203,social sciences
+planning development,203,social sciences
+geography,203,social sciences
+geography planning,203,social sciences
+demography,195,social sciences
+music,193,arts
+museology,190,arts
+language,185,literature
+occupational,183,occupational
+human,180,human
+medicine,176,medicine
+environmental,175,environmental
+public health,172,public
+environmental occupational,172,environmental
+occupational health,172,occupational
+health environmental,172,environmental
+language linguistic,158,other
+linguistic,158,other
+reproductive medicine,156,medicine
+reproductive,156,health
+information,151,information
+experimental cognitive,145,experimental
+cognitive psychology,145,social sciences
+experimental,145,experimental
+urban study,140,other
+urban,140,urban
+computer,134,computer science
+philosophy science,131,theory
+history philosophy,131,history
+conservation,123,nature
+agricultural,110,agricultural
+general agricultural,110,agricultural
+biological,110,biological
+biological science,110,other
+agricultural biological,110,agricultural
+general psychology,103,general
+behavior,99,social sciences
+management monitoring,89,management
+monitoring,89,management
+monitoring policy,89,policy
+policy law,89,policy
+policy,89,policy
+technology,88,technology
+organizational behavior,87,management
+organizational,87,management
+human resource,87,human
+behavior human,87,human
+resource,87,other
+resource management,87,management
+human computer,86,human
+interaction,86,computer science
+computer interaction,86,computer science
+landscape conservation,78,nature
+nature landscape,78,nature
+nature,78,nature
+landscape,78,nature
+innovation,71,management
+management technology,71,management
+technology innovation,71,technology
+finance,70,management
+pharmacy,66,health
+artificial,64,computer science
+artificial intelligence,64,computer science
+intelligence,64,computer science
+neuroscience,64,neuroscience
+cognitive neuroscience,63,neuroscience
+planetary,59,planetary
+marketing,58,marketing
+change,56,change
+planetary change,56,change
+global,56,global
+global planetary,56,global
+epidemiology,52,science
+social science,49,other
+general social,49,general
+information management,48,information management
+perinatology,47,health
+child,47,child
+pediatric perinatology,47,other
+perinatology child,47,child
+pediatric,47,other
+child health,47,child
+classic,42,other
+genetic,41,other
+developmental educational,39,educational
+developmental,39,developmental
+educational,39,educational
+educational psychology,39,educational
+therapy,33,health
+neuropsychology,33,neuropsychology
+neuropsychology physiological,33,neuropsychology
+physiological,33,physiology
+physiological psychology,33,physiology
+strategy,27,management
+strategy management,27,management
+linguistics language,27,literature
+food science,27,food
+linguistics,27,literature
+food,27,food
+ecology,26,ecology
+gynecology,25,health
+information science,25,other
+obstetric gynecology,25,other
+library,25,library
+library information,25,library
+obstetric,25,other
+science operation,25,other
+management science,25,management
+operation research,25,other
+operation,25,other
+psychiatry,21,health
+mental,21,health
+mental health,21,health
+psychiatry mental,21,health
+engineering,19,science
+physiology,18,physiology
+apply psychology,18,other
+apply,18,other
+science application,17,other
+accounting,17,management
+computer science,17,computer science
+application,17,other
+astronomy,16,planetary
+astronomy astrophysic,16,other
+astrophysic,16,other
+legal aspect,14,other
+life,14,philosophy
+architecture,14,arts
+aspect,14,other
+legal,14,philosophy
+issue ethic,14,other
+issue,14,other
+plant science,14,science
+plant,14,science
+ethic legal,14,other
+ethic,14,other
+medium,14,other
+medium technology,14,other
+biology,13,other
+molecular,13,molecular
+business,13,business
+business international,13,business
+international management,13,management
+network communication,12,other
+behavior systematic,12,other
+evolution,12,evolution
+network,12,other
+construction,12,construction
+building construction,12,building
+computer network,12,other
+systematic,12,other
+building,12,building
+molecular biology,12,molecular
+ecology evolution,12,evolution
+evolution behavior,12,evolution
+sport therapy,11,other
+sport,11,other
+occupational therapy,11,occupational
+physical,11,health
+rehabilitation,11,health
+physical therapy,11,health
+therapy rehabilitation,11,arts
+therapy sport,11,other
+health toxicology,10,science
+toxicology,10,science
+mutagenesis,10,science
+toxicology mutagenesis,10,science
+service,9,other
+medical,9,medicine
+oncology,9,health
+pollution,9,science
+nutrition dietetic,9,other
+emergency,9,health
+emergency medical,9,medicine
+medical service,9,other
+dietetic,9,other
+nutrition,9,health
+hearing,8,health
+speech hearing,8,health
+complementary,8,health
+complementary alternative,8,health
+pharmacology,8,health
+alternative medicine,8,health
+econometric finance,8,other
+alternative,8,health
+general economic,8,other
+management information,8,information management
+speech,8,health
+span life,7,philosophy
+vision pattern,7,science
+pathology,7,health
+pathology forensic,7,forensic
+pattern,7,science
+pattern recognition,7,science
+course study,7,other
+computer vision,7,science
+recognition,7,science
+vision,7,science
+archeology,7,social sciences
+span,7,philosophy
+course,7,philosophy
+life course,7,philosophy
+factor ergonomic,7,other
+forensic,7,forensic
+ergonomic,7,other
+life span,7,philosophy
+forensic medicine,7,forensic
+factor,7,other
+human factor,7,other
+soil science,6,science
+infectious disease,6,other
+probability,6,science
+computer aid,6,other
+computer graphic,6,other
+endocrinology,6,health
+endocrinology diabete,6,other
+biomedical engineering,6,biomedical
+biomedical,6,biomedical
+general art,6,other
+art humanity,6,other
+soil,6,science
+graphic,6,other
+statistic,6,other
+graphic computer,6,other
+statistic probability,6,other
+aid design,6,other
+aid,6,other
+transportation,6,management
+infectious,6,infectious
+disease,6,other
+humanity,6,other
+diabete metabolism,6,other
+design,6,arts
+diabete,6,other
+metabolism,6,science
+surgery,5,surgery
+chemistry,5,science
+physic,5,other
+nonlinear physic,5,other
+statistical nonlinear,5,statistics
+statistical,5,statistics
+mechanical,5,mechanical
+nonlinear,5,science
+mechanical engineering,5,mechanical
+respiratory,4,health
+agronomy,4,agricultural
+pulmonary,4,health
+pulmonary respiratory,4,health
+industrial manufacturing,4,management
+agronomy crop,4,agricultural
+leisure,4,arts
+industrial,4,science
+tourism leisure,4,arts
+tourism,4,arts
+leisure hospitality,4,arts
+respiratory medicine,4,medicine
+research theory,4,theory
+hospitality,4,arts
+hospitality management,4,arts
+crop science,4,agricultural
+mathematic,4,other
+manufacturing engineering,4,science
+modeling,4,science
+manufacturing,4,science
+crop,4,agricultural
+geology,3,geology
+space,3,planetary
+space planetary,3,planetary
+atmospheric,3,atmospheric
+environmental chemistry,3,environmental
+theory mathematic,3,other
+radiological ultrasound,3,radiological
+radiological,3,radiological
+computational theory,3,computational
+planetary science,3,planetary
+ecological,3,ecology
+ultrasound,3,ultrasound
+ultrasound technology,3,ultrasound
+informatic,3,other
+computational,3,computational
+health informatic,3,other
+energy,3,energy
+ecological modeling,3,ecology
+atmospheric science,3,atmospheric
+dermatology,2,dermatology
+organic chemistry,2,organic
+organic,2,organic
+small,2,science
+small animal,2,other
+sustainability environment,2,sustainability
+renewable,2,renewable
+environment,2,science
+renewable energy,2,renewable
+sustainability,2,sustainability
+structural engineering,2,structural
+structural,2,structural
+animal,2,other
+civil,2,science
+energy sustainability,2,energy
+health information,2,computer science
+civil structural,2,structural
+neurology,2,neuroscience
+surface coating,1,other
+surface,1,other
+anesthesiology pain,1,pain
+family,1,family
+optical,1,optical
+anesthesiology,1,health
+optical magnetic,1,optical
+pain,1,pain
+topology,1,science
+ocean engineering,1,science
+ocean,1,science
+microbiology,1,microbiology
+transplantation,1,science
+uncertainty,1,science
+modeling simulation,1,science
+molecular neuroscience,1,molecular
+urology,1,health
+decision science,1,other
+applied,1,science
+pain medicine,1,pain
+paleontology,1,science
+control,1,science
+material,1,other
+forestry,1,science
+electronic optical,1,electronic
+magnetic material,1,other
+film,1,other
+cell,1,cell
+cell biology,1,cell
+cellular,1,cell
+cellular molecular,1,cell
+probability uncertainty,1,science
+magnetic,1,materials
+practice,1,practice
+family practice,1,family
+coating,1,other
+biochemistry,1,biochemistry
+periodontics,1,health
+control engineering,1,other
+coating film,1,other
+gerontology,1,geriatrics
+geriatric gerontology,1,other
+geriatric,1,other
+geometry topology,1,science
+geometry,1,science
+decision,1,science
+applied mathematic,1,other
+gastroenterology,1,health
+general energy,1,general
+simulation,1,science
+general decision,1,general
+sensory,1,sensory
+leadership,1,leadership
+leadership management,1,leadership
+electronic,1,electronic

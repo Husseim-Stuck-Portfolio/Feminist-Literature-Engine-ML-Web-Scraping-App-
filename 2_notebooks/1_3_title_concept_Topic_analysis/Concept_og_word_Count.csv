@@ -1,0 +1,501 @@
+word,count
+science,25820
+sociology,22346
+studies,21212
+gender,18932
+gender studies,18062
+political,16488
+political science,15213
+feminism,15045
+law,13901
+philosophy,11144
+psychology,9862
+politics,9729
+art,8845
+social,7195
+computer,6754
+history,6606
+computer science,6163
+epistemology,4618
+physics,4539
+archaeology,4186
+studies sociology,4122
+science law,4012
+sociology gender,3551
+aesthetics,3460
+biology,3361
+mathematics,3288
+linguistics,3257
+literature,3134
+social science,3051
+economics,2853
+engineering,2846
+medicine,2521
+social psychology,2329
+media,2305
+theory,2291
+feminism gender,2191
+studies political,2022
+art history,2016
+sociology political,2000
+psychoanalysis,1921
+media studies,1911
+feminism sociology,1868
+anthropology,1860
+ecology,1790
+human,1778
+music,1777
+feminist,1767
+mechanics,1732
+quantum,1718
+quantum mechanics,1705
+science sociology,1695
+context archaeology,1562
+context,1562
+public,1521
+identity,1447
+relations,1362
+science gender,1361
+ethics,1343
+arts,1333
+power,1321
+geography,1311
+analysis,1296
+environmental,1288
+economic,1278
+power physics,1277
+pedagogy,1250
+theology,1220
+visual,1214
+intelligence,1212
+chemistry,1209
+artificial,1205
+artificial intelligence,1204
+visual arts,1195
+ideology,1192
+movement,1183
+law politics,1167
+law political,1135
+biochemistry,1102
+narrative,1099
+economy,1080
+science philosophy,1072
+identity music,1070
+health,1036
+sociology art,993
+sexuality,993
+human sexuality,987
+language,985
+sociology law,977
+science politics,963
+criminology,958
+business,920
+psychology social,888
+programming,886
+education,885
+science political,881
+law philosophy,867
+politics law,866
+library,863
+political economy,862
+humanities,860
+science social,855
+studies art,852
+research,840
+politics political,832
+programming language,832
+scholarship,821
+state,801
+public relations,790
+perspective,774
+graphical,773
+perspective graphical,773
+studies law,772
+algorithm,761
+psychology political,752
+world,751
+gene,743
+queer,739
+work,730
+justice,725
+philosophy law,723
+library science,721
+history art,717
+history sociology,708
+science computer,706
+science art,701
+environmental ethics,696
+feminist theory,694
+international,692
+state computer,692
+politics sociology,676
+race,675
+finance,663
+politics gender,657
+psychology sociology,654
+sociology psychology,653
+mechanical,650
+mechanical engineering,647
+art sociology,639
+feminism politics,637
+web,635
+religious,623
+operating,615
+learning,614
+neuroscience,613
+philosophy linguistics,608
+computing,608
+wide,607
+wide web,606
+world wide,606
+critical,605
+management,604
+studies psychology,602
+epistemology philosophy,596
+oppression,596
+religious studies,595
+democracy,594
+studies philosophy,591
+criticism,583
+race biology,569
+literature art,566
+studies social,555
+agency,550
+philosophy epistemology,549
+developmental,546
+psychology gender,545
+developmental psychology,543
+sociology social,541
+database,541
+art literature,537
+agency philosophy,535
+intersectionality,531
+physics quantum,530
+sociology philosophy,525
+science psychology,524
+rights,523
+paleontology,521
+sociology politics,520
+process,519
+law computer,517
+studies politics,517
+international relations,513
+communication,508
+genetics,508
+islam,506
+patriarchy,505
+studies feminism,498
+feminism political,497
+sociology history,497
+art gender,494
+mechanics physics,490
+psychology law,490
+philosophy political,488
+philosophy sociology,486
+white,484
+sexual,483
+representation,480
+work physics,480
+qualitative,478
+subject,478
+philosophy gender,478
+growth,477
+representation politics,474
+documents,473
+mathematical,473
+subject documents,473
+history political,473
+economic growth,471
+masculinity,469
+group,469
+population,466
+action,466
+art philosophy,464
+science history,460
+pure,458
+pure mathematics,457
+feminism art,455
+black,451
+science epistemology,450
+mainstream,450
+economic justice,449
+art political,446
+qualitative research,446
+demography,446
+history law,446
+mathematical analysis,445
+postmodernism,445
+security,444
+psychiatry,443
+sociology feminism,442
+mutation,441
+white mutation,440
+women,440
+aesthetics art,438
+field,438
+art law,435
+colonialism,433
+empowerment,432
+field mathematics,430
+cultural,429
+feminist movement,426
+law economics,424
+geometry,422
+linguistics philosophy,422
+psychotherapist,422
+studies history,420
+femininity,419
+sociology epistemology,414
+nursing,408
+pathology,407
+history gender,407
+class,405
+art art,402
+resistance,399
+resistance ecology,398
+inequality,395
+science artificial,392
+reading,385
+studies epistemology,385
+epistemology political,380
+feminist philosophy,380
+studies gender,379
+complex,374
+medical,368
+data,366
+subjectivity,365
+lesbian,365
+reading process,364
+control,358
+complex analysis,358
+argument,358
+argument complex,358
+human rights,356
+racism,355
+diversity,353
+psychology philosophy,352
+science anthropology,351
+sociology aesthetics,350
+law art,350
+optics,349
+psychoanalysis psychology,348
+biology ecology,346
+statistics,345
+machine,344
+psychology psychology,344
+machine learning,339
+sociology media,336
+disease,335
+computer security,332
+movement music,332
+history archaeology,331
+philosophy art,331
+nationalism,329
+violence,328
+culture,326
+poetry,321
+meaning,318
+hegemony,318
+art aesthetics,317
+existential,316
+meaning existential,316
+china,315
+science engineering,312
+studies aesthetics,312
+engineering ethics,312
+law social,311
+chemistry biochemistry,310
+diversity politics,309
+law archaeology,309
+social movement,308
+administration,308
+environmental health,306
+indigenous,303
+development,302
+ethnography,301
+sociology psychoanalysis,301
+politics feminism,300
+studies computer,299
+advertising,299
+physics sociology,299
+negotiation,297
+value,295
+care,294
+family,294
+law history,293
+consciousness,290
+poison control,287
+poison,287
+ecology biology,286
+science linguistics,285
+philosophy politics,285
+relation,283
+equality,283
+history literature,283
+philosophy computer,282
+cognition,282
+value mathematics,281
+space,281
+philosophy theology,280
+psychology art,280
+economics law,278
+internet,276
+internal,275
+history philosophy,275
+gender equality,275
+cognitive,275
+black feminism,274
+art visual,273
+psychology epistemology,271
+ethnic,271
+internal medicine,269
+science world,268
+epistemology gender,268
+normative,268
+public administration,266
+epistemology social,266
+action physics,265
+aesthetics philosophy,264
+ethnic group,264
+social media,263
+epistemology law,263
+sociology feminist,262
+equity,260
+science aesthetics,259
+government,257
+sociology computer,256
+citizenship,255
+relation database,252
+sociology literature,252
+communism,250
+solidarity,248
+capitalism,248
+law linguistics,247
+order,247
+epistemology sociology,247
+exchange,246
+studies literature,245
+science archaeology,243
+government linguistics,243
+rhetoric,243
+law psychology,242
+science algorithm,241
+conversation,239
+ancient,238
+pregnancy,237
+interpretation,236
+interpretation philosophy,236
+law sociology,236
+ancient history,235
+science biology,235
+civil,234
+popular,234
+punctuation,234
+neoliberalism,233
+neoliberalism international,233
+modernity,233
+archaeology sociology,232
+prevention,232
+space punctuation,232
+politics philosophy,230
+theory sociology,230
+legal,229
+order exchange,229
+marketing,229
+cultural studies,228
+studies media,228
+sociological,227
+perception,227
+art psychology,227
+embodied,225
+biochemistry chemistry,225
+embodied cognition,225
+praxis,224
+music gender,223
+law biology,222
+literature philosophy,222
+psychoanalysis sociology,219
+critical theory,219
+psychology computer,219
+marxist philosophy,219
+marxist,219
+aesthetics political,218
+acoustics,217
+science media,217
+science economics,215
+music sociology,212
+emancipation,212
+class philosophy,211
+materialism,211
+studies psychoanalysis,210
+law physics,209
+alternative,209
+law epistemology,209
+psychology psychoanalysis,209
+science physics,208
+science geography,208
+alternative medicine,207
+concept,207
+literary,206
+popular culture,206
+science library,205
+focus,204
+physics gender,204
+character,203
+law gender,201
+anthropology law,201
+astronomy,201
+feeling,200
+studies feminist,200
+literature sociology,199
+economy law,199
+suicide,198
+intervention,198
+face,197
+face sociological,197
+sociological concept,197
+science mathematics,196
+reproduction,196
+relations political,196
+character mathematics,196
+philosophy psychology,196
+suicide prevention,195
+science medicine,195
+aesthetics sociology,195
+cybernetics,195
+citation,194
+theology philosophy,194
+science programming,194
+politics social,194
+law aesthetics,193
+variety,192
+transformative,192
+variety cybernetics,192
+transformative learning,191
+inclusion,191
+mythology,190
+psychological,189
+queer theory,189
+reproductive,189
+knowledge,189
+health care,188
+framing construction,188
+multiculturalism,188
+philosophy archaeology,188
+framing,188
+construction,188
+history history,187
+theory gender,187
+mathematics education,186
+theater,186
+movie,186
+movie theater,186
+autonomy,186
+epistemology psychology,185
+suffrage,185
+liberalism,185
+science literature,185
+socialism,185
+transgender,184
+girl,184
+aesthetics law,183
